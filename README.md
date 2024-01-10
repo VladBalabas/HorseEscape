@@ -1,16 +1,7 @@
 # horse_escape
 
-A new Flutter project.
+![image](https://github.com/VladBalabas/HorseEscape/assets/125162851/e36e3006-78ac-42ec-b2cd-a44548be5138) ![image](https://github.com/VladBalabas/HorseEscape/assets/125162851/3dfe6f9d-fd45-4eeb-8c7b-75c4eaa228ea)
+![image](https://github.com/VladBalabas/HorseEscape/assets/125162851/c54f2bbb-69ea-41fd-a274-75e3b88b59d9) ![image](https://github.com/VladBalabas/HorseEscape/assets/125162851/595037f0-6306-48e6-99e0-60b90a4917aa)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
